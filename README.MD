@@ -53,3 +53,4 @@ Dane Hillard's code focused on a command-line interface, but we will refactor th
    1. SOLID
    2. Repository Pattern and Unit of Work (understand how SQLAlchemy is really doing this)
    3. Dependency injection
+ 
